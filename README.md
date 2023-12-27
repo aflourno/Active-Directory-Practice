@@ -1,4 +1,4 @@
-# Active-Directory-Practice
+# Active-Directory and OsTicket Home Lab Practice
 This demonstrates some examples of ticket lifestyles that could occur in a real world environment. 
 
 # User Password Reset Practice
